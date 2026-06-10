@@ -1,7 +1,7 @@
 # Full Wordpress Development Ebook
 
 <p align="center">
-<img src="assets/overview.png" alt="WordPress Backend Developer Handbook Banner">
+<img src="../assets/overview.png" alt="WordPress Backend Developer Handbook Overview">
 </p>
 
 Too big to upload on Github.
